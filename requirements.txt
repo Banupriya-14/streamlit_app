@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 PyPDF2
 google.generativeai
+groq
